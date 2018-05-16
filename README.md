@@ -1,3 +1,14 @@
+# NOTE PLEASE / 请注意
+- 这个仓库的代码与Spark2.3版本完全相同。
+- Spark是个杰出的项目，我花费了不少时间阅读源码，理解其设计思想。
+- 在这里，用与源码完全相同的结构，在其中记录我阅读与学习过程中的感悟。
+- 所有的额外注解与分析主要以中文形式呈现。
+- The code for this repository is exactly the same as Spark 2.3.
+- Spark is an outstanding project. I spent a lot of time reading the source code and understanding its design ideas.
+- Here, I use the exact same structure as the source code to record my reading and learning process.
+- All the additional annotations and analyses are mainly presented in Chinese.
+
+
 # Apache Spark
 
 Spark is a fast and general cluster computing system for Big Data. It provides
